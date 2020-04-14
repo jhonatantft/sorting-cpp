@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481079574 source:c:\users\jhonatan\desktop\ac3\ac3\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+
